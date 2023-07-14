@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm a software engineer student at FIUBA, currently looking for job opportunities to deepen my software and work knowledge and help develop useful projects. I have an interest in backend web development and the different use-cases for low-level languages. I like learning new technologies and practices, as well as reading other software projects and news in my free time.
+I'm a software engineer student at FIUBA, currently looking for job opportunities to deepen my software knowledge and help develop useful projects. I have an interest in backend web development and the different use-cases for low-level languages. As a student, I like learning new technologies and practices, as well as reading other software projects and news in my free time.
 
 ![Banner](https://github.com/jm-velazquez/jm-velazquez/blob/main/Github%20banner.png)
 
